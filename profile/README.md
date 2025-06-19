@@ -148,8 +148,8 @@ CookFlow es una aplicación web para gestionar y compartir recetas de cocina. Es
 - [**Nico Fernández** - *@srlsrx*](https://github.com/srlsrx)
 - [**Ángel Miguel Aragón** - *@Algol95*](https://github.com/Algol95)
 - [**Jose Manuel Barreiro Álvarez** - *@jomabal98*](https://www.linkedin.com/in/jose-manuel-barreiro-álvarez/)
-- [**Sergio Jorquera Gimeno ** - *@sergio-jorquera*](https://www.linkedin.com/in/sergio-jorquera-gimeno-48472934a/)
-- [**Saray Miguel Narganes ** - *@sarayminar*](https://www.linkedin.com/in/saray-miguel-narganes/)
-- [**Yuliia Martynovych ** - *@sarayminar*](https://www.linkedin.com/in/martynovych/)
+- [**Sergio Jorquera Gimeno** - *@sergio-jorquera*](https://www.linkedin.com/in/sergio-jorquera-gimeno-48472934a/)
+- [**Saray Miguel Narganes** - *@sarayminar*](https://www.linkedin.com/in/saray-miguel-narganes/)
+- [**Yuliia Martynovych** - *@sarayminar*](https://www.linkedin.com/in/martynovych/)
 - [**Ana Castro** - *@cuyssi*](https://www.linkedin.com/in/anabcastro/)
 
